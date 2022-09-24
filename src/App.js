@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p
         
-        > this is a page of kazi samir finallyy  </p>
+        > this is a page of kazi samir finally it is working godd..</p>
       </header>
     </div>
   );
