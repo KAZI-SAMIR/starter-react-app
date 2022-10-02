@@ -8,6 +8,7 @@ function App() {
         <p
         
         > this is a page of kazi samir finally it is working godd..</p>
+        <p>react app</p>
       </header>
     </div>
   );
